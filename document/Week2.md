@@ -41,6 +41,7 @@
  어려운 점은 파이썬을 한번도 써보지 않아서 코드를 이해하기가 생각보다 힘들었다. 그래서 파이썬을 동시에 공부하면서 인공지능을 공부를 하였다. 
  Citation:
  https://colab.research.google.com/drive/16fSbCyLntAUWtHE0bfGG8XLOq16Ut-l_#scrollTo=trE76Xl7oJRS\ 
+ 
  https://pinkwink.kr/1264
 
  
