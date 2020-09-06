@@ -38,7 +38,9 @@
  대부분의 사람들이 OPENCV Library를 사용하여 차선 인식을 한 것을 보고, Google Colab에 이미 나와있는 소스를 직접 쳐보면서 이해를 했다.
  image read->grayscale->gaussian_blur->canny edge detection->관심 영역 지정->HoughLineP(선을 그리는 함수)->원본과 선을 덮는다.
  이미지 말고 동영상 또한 OPENCV를 통해 차선을 딸 수 있다는 것을 알게 되었다. 
+
  어려운 점은 파이썬을 한번도 써보지 않아서 코드를 이해하기가 생각보다 힘들었다. 그래서 파이썬을 동시에 공부하면서 인공지능을 공부를 하였다. 
+ 
  Citation:
  https://colab.research.google.com/drive/16fSbCyLntAUWtHE0bfGG8XLOq16Ut-l_#scrollTo=trE76Xl7oJRS\ 
  
